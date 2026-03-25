@@ -1,0 +1,33 @@
+[submodule "math-models-coursework"]
+	path = math-models-coursework
+	url = https://github.com/simonoffcc/math-models-coursework.git
+[submodule "linux-kernel-guides"]
+	path = linux-kernel-guides
+	url = https://github.com/simonoffcc/linux-kernel-guides.git
+[submodule "oop-java-labs-2ndyear"]
+	path = oop-java-labs-2ndyear
+	url = https://github.com/simonoffcc/oop-java-labs-2ndyear.git
+[submodule "db-coursework-5sem"]
+	path = db-coursework-5sem
+	url = https://github.com/simonoffcc/db-coursework-5sem.git
+[submodule "polytech-bot-featured"]
+	path = polytech-bot-featured
+	url = https://github.com/simonoffcc/polytech-bot-featured
+[submodule "dogzilla-moves"]
+	path = dogzilla-moves
+	url = https://github.com/simonoffcc/dogzilla-moves
+[submodule "cg-openGL-labs-7sem"]
+	path = cg-openGL-labs-7sem
+	url = https://github.com/simonoffcc/cg-openGL-labs-7sem.git
+[submodule "rpi-lcd-game"]
+	path = rpi-lcd-game
+	url = https://github.com/simonoffcc/rpi-lcd-game
+[submodule "image-segmentation"]
+	path = image-segmentation
+	url = https://github.com/simonoffcc/image-segmentation
+[submodule "Labs-FormulaIT-Python-2023"]
+	path = Labs-FormulaIT-Python-2023
+	url = https://github.com/simonoffcc/Labs-FormulaIT-Python-2023.git
+[submodule "DD-PY2-Labs"]
+	path = DD-PY2-Labs
+	url = https://github.com/simonoffcc/DD-PY2-Labs.git

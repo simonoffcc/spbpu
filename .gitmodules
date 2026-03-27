@@ -31,3 +31,6 @@
 [submodule "DD-PY2-Labs"]
 	path = DD-PY2-Labs
 	url = https://github.com/simonoffcc/DD-PY2-Labs.git
+[submodule "gitlab-stats-sync"]
+	path = gitlab-stats-sync
+	url = https://github.com/simonoffcc/gitlab-stats-sync.git

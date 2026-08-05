@@ -34,3 +34,12 @@
 [submodule "gitlab-stats-sync"]
 	path = gitlab-stats-sync
 	url = https://github.com/simonoffcc/gitlab-stats-sync.git
+[submodule "dsa-cpp-labs-1styear"]
+	path = dsa-cpp-labs-1styear
+	url = https://github.com/simonoffcc/dsa-cpp-labs-1styear.git
+[submodule "prog-tech-stl-labs-2sem"]
+	path = prog-tech-stl-labs-2sem
+	url = https://github.com/simonoffcc/prog-tech-stl-labs-2sem.git
+[submodule "algo-prog-labs-1styear"]
+	path = algo-prog-labs-1styear
+	url = https://github.com/simonoffcc/algo-prog-labs-1styear.git
